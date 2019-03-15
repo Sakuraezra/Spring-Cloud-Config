@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Sakuraezra/Spring-Cloud-Config/     # ÅäÖÃgit²Ö¿âµÄµØÖ·
-          search-paths: config-repo                             # git²Ö¿âµØÖ·ÏÂµÄÏà¶ÔµØÖ·£¬¿ÉÒÔÅäÖÃ¶à¸ö£¬ÓÃ,·Ö¸î¡£
-          username : Sakuraezra                                              # git²Ö¿âµÄÕËºÅ
-          password : a131313a                                             # git²Ö¿âµÄÃÜÂë
+          uri: https://github.com/Sakuraezra/Spring-Cloud-Config/     # é…ç½®gitä»“åº“çš„åœ°å€
+          search-paths: config-repo                             # gitä»“åº“åœ°å€ä¸‹çš„ç›¸å¯¹åœ°å€ï¼Œå¯ä»¥é…ç½®å¤šä¸ªï¼Œç”¨,åˆ†å‰²ã€‚
+          username :                                              # gitä»“åº“çš„è´¦å·
+          password :                                            # gitä»“åº“çš„å¯†ç 
