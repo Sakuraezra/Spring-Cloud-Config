@@ -1,13 +1,13 @@
-package com.example.spingcloudconfig;
+package com.example.springcloudclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpingCloudConfigApplication {
+public class SpringCloudClientApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpingCloudConfigApplication.class, args);
+		SpringApplication.run(SpringCloudClientApplication.class, args);
 	}
 
 }
